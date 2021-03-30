@@ -45,7 +45,7 @@ Pillow==8.0.0
 pip==20.3.3
 plotly==4.2.1
 prompt-toolkit==3.0.8
-Pygments==2.7.3
+Pygments==2.7.4
 pykalman==0.9.5
 pylint==2.6.0
 pyparsing==2.4.7
